@@ -14,5 +14,5 @@
 ## 🔧 Github Status 🔧
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbenner&show_icons=true&theme=gradient)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimbenner&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimbenner&layout=compact)
  </div>
