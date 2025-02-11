@@ -11,6 +11,6 @@
 
 ## 🔧 Github Status 🔧
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpha77x&show_icons=true&theme=gradient)
+![](https://github-readme-stats.vercel.app/api?username=alpha77x&show_icons=true&theme=gradient)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpha77x&layout=compact)
  </div>
